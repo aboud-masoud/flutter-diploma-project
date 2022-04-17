@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "795203684845",
+    "project_id": "flutter-diploma-project",
+    "storage_bucket": "flutter-diploma-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795203684845:android:802fed8f97a3876207bfe4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795203684845-n21vufvp2qm46ds5ouhh94hbjlec577a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4wkqvrv5HfKXZbfUdutFlY4Hp_k6zgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795203684845-n21vufvp2qm46ds5ouhh94hbjlec577a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795203684845-48ad0g7kmark6ggsu52dc3n84ecdjl9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
